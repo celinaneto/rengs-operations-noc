@@ -6,6 +6,7 @@ O projeto foi desenvolvido para praticar a configuração de ferramentas de moni
 
 ## Objetivo
 
+
 Construir um ambiente de monitoramento centralizado utilizando Zabbix e Grafana, permitindo acompanhar métricas e a disponibilidade dos equipamentos conectados ao laboratório.
 
 ## Ambiente utilizado
